@@ -2,4 +2,4 @@
 
 <h2>👨‍💻 System Administration Projects:</h2>
 
-  -  [Active Directory Home Lab](github.com/colemillertech)
+  -  [Active Directory Home Lab](https://github.com/ColeMillerTech/ActiveDirectoryLab/tree/main)
