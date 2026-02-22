@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cole! <h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>🔐 Cyber Security Projects:</h2>
 
 -  [Kali Linux VM Lab Setup](https://github.com/ColeMillerTech/KaliLinuxVMLabSetup/tree/main)
 
